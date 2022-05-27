@@ -10,12 +10,12 @@
 
 ## 项目截图
 
-![1653286096432](./document/img/1653286096432.png)
+![1653286096432](https://raw.githubusercontent.com/SyJarvis/order_water/main/document/img/1653286096432.png)
 
 
 
-![1653286210350](./document/img/1653286210350.png)
+![1653286210350](https://raw.githubusercontent.com/SyJarvis/order_water/main/document/img/1653286210350.png)
 
 
 
-![1653286228424](./document/img/1653286228424.png)
+![1653286228424](https://raw.githubusercontent.com/SyJarvis/order_water/main/document/img/1653286228424.png)
