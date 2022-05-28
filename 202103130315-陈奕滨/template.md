@@ -1,6 +1,6 @@
 |项目名    |项目地址                                     |
 |:-------:|:-------------------------------------------:|
-|共享电话  |https://github.com/0Broken/final-project.git|
+|小程序外卖  |https://github.com/0Broken/final.git|
 
 ## 简介
 
@@ -11,8 +11,8 @@
 ## 项目截图
 
 
-![截图1](C:\Users\admin\Desktop\202103130315陈奕滨\截图1.jpg)
+![](https://inews.gtimg.com/newsapp_ls/0/14946680968/0)
 
-![截图2](C:\Users\admin\Desktop\202103130315陈奕滨\截图2.jpg)
+![](https://inews.gtimg.com/newsapp_ls/0/14946682011/0)
 
-![截图3](C:\Users\admin\Desktop\202103130315陈奕滨\截图3.jpg)
+![](https://inews.gtimg.com/newsapp_ls/0/14946682863/0)
